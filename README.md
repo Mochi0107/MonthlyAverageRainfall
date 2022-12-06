@@ -1,4 +1,4 @@
-This repository contains an analysis of average monthly rainfall in Oxford and Melbourne. 
+This repository contains an analysis of average monthly rainfall in Oxford and Melbourne, using data obtained between 1855-2015.
 
 To run the analysis first run:
   
